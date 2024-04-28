@@ -3,6 +3,7 @@
 ### Passo 1: Preparando o SD Card
 1. Formate seu SD Card em formato FAT32.
 2. Certifique-se de que o SD Card esteja vazio ou faça backup dos arquivos existentes.
+3. DEIXEI UM .EXE QUE É UM APLICATIVO QUE FAZ ISSO PARA VOCÊ, EXECUTE EM SEU COMPUTADOR.
 
 ### Passo 2: Baixando e instalando o M5Burner
 1. Baixe o aplicativo M5Burner do [site oficial](https://docs.m5stack.com/en/download), conforme o sistema operacional do seu computador.
