@@ -1,4 +1,4 @@
-## Como modificar seu ESP32 com o Card Computer M5Stack
+## Como modificar seu ESP32 o Card Computer M5Stack
 
 ### Passo 1: Preparando o SD Card
 1. Formate seu SD Card em formato FAT32.
