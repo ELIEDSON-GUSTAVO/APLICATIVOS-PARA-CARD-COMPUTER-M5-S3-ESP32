@@ -18,6 +18,19 @@
 1. Baixe os aplicativos .BIN desejados do GitHub.
 2. Coloque os arquivos .BIN no SD Card.
 
+Estão sendo utilizadas as seguintes bibliotecas de terceiros para modificar o ESP32 com o Card Computer M5Stack:
+- BadCaed.bin
+- Painel do carro.bin
+- Clone seu remote.bin
+- M5Cardputer_WebRadio.ino.bin
+- Marauder.bin
+- MiniCar.bin
+- Nemo.bin
+- Orca.bin
+- ResistorColorCode.bin
+- SpaceWars.bin
+
+
 ### Passo 5: Executando os aplicativos no M5Stack
 1. Insira o SD Card no M5Stack.
 2. Ligue o M5Stack e pressione a tecla OK.
