@@ -30,6 +30,8 @@ Estão sendo utilizadas as seguintes bibliotecas de terceiros para modificar o E
 - Orca.bin
 - ResistorColorCode.bin
 - SpaceWars.bin
+- Bruce v08
+- nemo v2.6.1
 
 
 ### Passo 5: Executando os aplicativos no M5Stack
